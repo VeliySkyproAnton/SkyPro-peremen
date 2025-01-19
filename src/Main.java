@@ -68,6 +68,5 @@ public class Main {
         var workerAdd = worker + 94;
         var hourNew = hour / workerAdd;
         System.out.println("Если в компании работает " + workerAdd + " человек, то всего " + hourNew + " часов работы может быть поделено между сотрудниками");
-        //VPN
     }
 }
